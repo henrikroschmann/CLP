@@ -2,6 +2,7 @@
   "profiles": {
     "Example": {
       "commandName": "Project",
+      "commandLineArgs": "-hi hello -w something",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
